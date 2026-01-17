@@ -1,7 +1,5 @@
-git pull ...
-
+git pull origin main
+ 
 git add .
-
-git commit -m "Update website with actual publication and consistent content"
-
+git commit -m "update"
 git push origin main
